@@ -1,0 +1,108 @@
+:root {
+  --buttercup: #f1b711;
+  --cararra: #ebebeb;
+  --silver-chalice: #afafaf;
+  --white: #ffffff;
+
+  --font-size-l: 17px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 19px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 22px;
+  --font-size-xxxxl: 25px;
+  --font-size-xxxxxl: 31px;
+  --font-size-xxxxxxl: 39px;
+  --font-size-xxxxxxxl: 40px;
+  --font-size-xxxxxxxxl: 48px;
+  --font-size-xxxxxxxxxl: 90px;
+
+  --font-family-bebas_neue: "Bebas Neue", Helvetica;
+  --font-family-lato: "Lato", Helvetica;
+  --font-family-sfui_display-semibold: "SFUI Display-Semibold", Helvetica;
+  --font-family-sfuidisplay-light: "SFUIDisplay-Light", Helvetica;
+}
+.lato-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.lato-bold-buttercup-16px {
+  color: var(--buttercup);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.lato-black-buttercup-16px {
+  color: var(--buttercup);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+.lato-normal-buttercup-31px {
+  color: var(--buttercup);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.lato-bold-white-16px-2 {
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+}
+.sfuidisplay-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-sfui_display-semibold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.lato-normal-silver-chalice-31px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.lato-normal-silver-chalice-20px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.lato-normal-silver-chalice-31px-2 {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxxxl);
+}
+.bebasneue-bold-buttercup-90px {
+  color: var(--buttercup);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-xxxxxxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.bebasneue-normal-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-xxxxxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.bebasneue-normal-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-xxxxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.border-2px-buttercup {
+  border: 2px solid var(--buttercup);
+}

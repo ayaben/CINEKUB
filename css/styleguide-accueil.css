@@ -1,0 +1,86 @@
+:root {
+  --black: #000000;
+  --cararra: #ebebeb;
+  --celeste: #d1d1d1;
+  --eerie-black: #202020;
+  --fuscous-gray: #564d4d;
+  --gray: #808080;
+  --gray-2: #909090;
+  --iron: #d8d8d8;
+  --white: #ffffff;
+
+  --font-size-l: 16px;
+  --font-size-m: 15px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xs: 13px;
+  --font-size-xxl: 21px;
+  --font-size-xxs: 12px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxs: 10px;
+  --font-size-xxxxl: 30px;
+  --font-size-xxxxxl: 36px;
+  --font-size-xxxxxxl: 40px;
+  --font-size-xxxxxxxl: 48px;
+  --font-size-xxxxxxxxl: 75px;
+  --font-size-xxxxxxxxxl: 79px;
+
+  --font-family-bebas_neue: "Bebas Neue", Helvetica;
+  --font-family-lato: "Lato", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-segoeui-bold: "SegoeUI-Bold", Helvetica;
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+  --font-family-sfui_display-semibold: "SFUI Display-Semibold", Helvetica;
+  --font-family-sfuidisplay-bold: "SFUIDisplay-Bold", Helvetica;
+  --font-family-sfuidisplay-light: "SFUIDisplay-Light", Helvetica;
+  --font-family-source_sans_pro: "Source Sans Pro", Helvetica;
+  --font-family-source_serif_pro: "Source Serif Pro", Helvetica;
+}
+.sfuidisplay-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-sfui_display-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.sourcesanspro-normal-fuscous-gray-16px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+.sourcesanspro-normal-gray-10px {
+  color: var(--gray-2);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-light-gray-13px {
+  color: var(--gray);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+.opensans-normal-gray-15px {
+  color: var(--gray);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+}
+.sfuidisplay-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-sfuidisplay-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+.lato-bold-celeste-79px {
+  color: var(--celeste);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxxxxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}

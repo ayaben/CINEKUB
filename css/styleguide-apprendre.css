@@ -1,0 +1,63 @@
+:root {
+  --cararra: #ebebeb;
+  --celeste: #d1d1d1;
+  --lemon: #fae916;
+  --silver-chalice: #afafaf;
+  --turbo: #ffe900;
+  --white: #ffffff;
+
+  --font-size-l: 20px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 46px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 90px;
+
+  --font-family-bebas_neue: "Bebas Neue", Helvetica;
+  --font-family-lato: "Lato", Helvetica;
+  --font-family-sfui_display-semibold: "SFUI Display-Semibold", Helvetica;
+  --font-family-sfuidisplay-light: "SFUIDisplay-Light", Helvetica;
+}
+.lato-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.lato-bold-silver-chalice-16px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.sfuidisplay-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-sfui_display-semibold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.lato-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+.bebasneue-normal-celeste-48px {
+  color: var(--celeste);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.bebasneue-normal-white-46px {
+  color: var(--white);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}

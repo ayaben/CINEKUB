@@ -1,0 +1,1723 @@
+/* screen - page-d-accueil */
+
+.page-d-accueil {
+    background-color: #1c1a1a;
+    height: 5779px;
+    overflow: hidden;
+    overflow-x: hidden;
+    position: relative;
+    width: 1904px;
+}
+
+.page-d-accueil .a-year-in-our-nomad-2OTQPr {
+    background-color: transparent;
+    height: 26px;
+    left: 0px;
+    letter-spacing: 0.70px;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    white-space: nowrap;
+    width: 85.40%;
+}
+
+.page-d-accueil .a-year-in-our-nomad-IBphmN {
+    background-color: transparent;
+    height: 26px;
+    left: 0px;
+    letter-spacing: 0.70px;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    white-space: nowrap;
+    width: 85.40%;
+}
+
+.page-d-accueil .about-us-C61RwL {
+    background-color: transparent;
+    height: 224px;
+    left: 317px;
+    position: absolute;
+    top: 5148px;
+    width: 1288px;
+}
+
+.page-d-accueil .all-of-this-textutal-2OTQPr {
+    background-color: transparent;
+    height: 102px;
+    left: 0.37%;
+    letter-spacing: 0.75px;
+    line-height: 15px;
+    position: absolute;
+    text-align: left;
+    top: calc(137.18% - 140px);
+    white-space: nowrap;
+    width: 100.37%;
+}
+
+.page-d-accueil .all-of-this-textutal-IBphmN {
+    background-color: transparent;
+    height: 102px;
+    left: 0.37%;
+    letter-spacing: 0.75px;
+    line-height: 15px;
+    position: absolute;
+    text-align: left;
+    top: calc(137.18% - 140px);
+    white-space: nowrap;
+    width: 100.37%;
+}
+
+.page-d-accueil .all-of-this-textutal-WgszGj {
+    background-color: transparent;
+    height: 102px;
+    left: 0px;
+    letter-spacing: 0.75px;
+    line-height: 15px;
+    position: absolute;
+    text-align: left;
+    top: calc(137.18% - 140px);
+    white-space: nowrap;
+    width: 100.55%;
+}
+
+.page-d-accueil .all-of-this-textutal-xoxMf8 {
+    background-color: transparent;
+    height: 102px;
+    left: 0.46%;
+    letter-spacing: 0.75px;
+    line-height: 15px;
+    position: absolute;
+    text-align: left;
+    top: calc(137.18% - 140px);
+    white-space: nowrap;
+    width: 96.81%;
+}
+
+.page-d-accueil .apprendre-5eV5YA {
+    background-color: transparent;
+    bottom: calc(48.19% - 10px);
+    height: 20px;
+    left: calc(43.79% - 44px);
+    letter-spacing: 1.50px;
+    line-height: 14px;
+    position: absolute;
+    text-align: center;
+    white-space: nowrap;
+    width: 100px;
+}
+
+.page-d-accueil .article-groupe-0BbjVm {
+    background-color: transparent;
+    bottom: 96px;
+    height: 552px;
+    position: absolute;
+    right: 0px;
+    width: 548px;
+}
+
+.page-d-accueil .article-textual-preview-JQttCV {
+    background-color: transparent;
+    height: calc(100.00% - 62px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .article-textual-preview-cRxxAB {
+    background-color: transparent;
+    height: calc(100.00% - 62px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .article-textual-preview-m31xEG {
+    background-color: transparent;
+    height: calc(100.00% - 62px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .article-textual-preview-tsXc5k {
+    background-color: transparent;
+    height: calc(100.00% - 66px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .blog-0BbjVm {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-sfui_display-semibold);
+    font-size: var(--font-size-xxxxxxxxl);
+    font-weight: 400;
+    height: 91px;
+    left: 0px;
+    letter-spacing: 3.00px;
+    line-height: 60px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: left;
+    top: 8px;
+    white-space: nowrap;
+    width: calc(100.00% - 1444px);
+}
+
+.page-d-accueil .blog-5eV5YA {
+    background-color: transparent;
+    bottom: calc(48.19% - 10px);
+    height: 20px;
+    letter-spacing: 1.50px;
+    line-height: 14px;
+    position: absolute;
+    right: calc(38.10% - 18px);
+    text-align: left;
+    white-space: nowrap;
+    width: 46px;
+}
+
+.page-d-accueil .blog-C61RwL {
+    background-color: transparent;
+    height: 782px;
+    left: 147px;
+    position: absolute;
+    top: 4202px;
+    width: 1650px;
+}
+
+.page-d-accueil .button-insta-f11UdC {
+    background-color: var(--cararra);
+    height: 48px;
+    left: 0px;
+    position: absolute;
+    top: calc(50.00% - 24px);
+    width: 48px;
+}
+
+.page-d-accueil .button-lire-f6DRtQ {
+    background-color: #ffeb00;
+    bottom: 20px;
+    height: 37px;
+    left: 20px;
+    position: absolute;
+    width: 118px;
+}
+
+.page-d-accueil .ce-webinaire-or-lis-la-sant-pu-faYtln {
+    background-color: transparent;
+    bottom: calc(45.69% - 186px);
+    color: var(--black);
+    font-family: var(--font-family-segoeui-regular);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    height: 407px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    right: 33px;
+    text-align: left;
+    width: 275px;
+}
+
+.page-d-accueil .cell-blog-QEqp9L {
+    background-color: transparent;
+    height: 430px;
+    left: 1176px;
+    position: absolute;
+    top: 0px;
+    width: 1156px;
+}
+
+.page-d-accueil .cell-blog-RPfC9y {
+    background-color: transparent;
+    height: 430px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 1156px;
+}
+
+.page-d-accueil .cell-blog-yD0NSi {
+    background-color: transparent;
+    height: 430px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .cest-la-saison-hance-de-gagner-utIxvD {
+    background-color: transparent;
+    color: var(--black);
+    font-family: var(--font-family-segoeui-regular);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    height: 272px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    right: 22px;
+    text-align: left;
+    top: calc(40.72% - 111px);
+    width: 275px;
+}
+
+.page-d-accueil .cin-ekub-iPe1yZ {
+    background-color: transparent;
+    bottom: calc(48.96% - 24px);
+    color: var(--cararra);
+    font-family: var(--font-family-bebas_neue);
+    font-size: var(--font-size-xxxxxxxl);
+    font-weight: 700;
+    height: 49px;
+    left: 69px;
+    letter-spacing: 0.00px;
+    line-height: 48px;
+    overflow: hidden;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: 129px;
+}
+
+.page-d-accueil .cinema-zCOIAP {
+    background-color: transparent;
+    bottom: 231px;
+    height: 97px;
+    letter-spacing: 1.58px;
+    line-height: 545px;
+    position: absolute;
+    right: calc(39.00% - 125px);
+    text-align: left;
+    white-space: nowrap;
+    width: 321px;
+}
+
+.page-d-accueil .circle-background01-C61RwL {
+    background: linear-gradient(180deg, rgba(255, 234, 0, 0.33) 0%, rgba(255, 255, 255, 0) 62.23%);
+    background-color: transparent;
+    border-radius: 677px;
+    height: 1354px;
+    left: -863px;
+    opacity: 0.33;
+    position: absolute;
+    top: 780px;
+    width: 1354px;
+}
+
+.page-d-accueil .circle-background02-C61RwL {
+    background: linear-gradient(180deg, rgba(255, 234, 0, 0.33) 0%, rgba(255, 255, 255, 0) 62.23%);
+    background-color: transparent;
+    border-radius: 555px;
+    height: 1110px;
+    left: 1241px;
+    opacity: 0.33;
+    position: absolute;
+    top: 2026px;
+    width: 1110px;
+}
+
+.page-d-accueil .circle-background03-C61RwL {
+    background: linear-gradient(180deg, rgba(255, 234, 0, 0.33) 0%, rgba(255, 255, 255, 0) 62.23%);
+    background-color: transparent;
+    border-radius: 555px;
+    height: 1110px;
+    left: -741px;
+    opacity: 0.33;
+    position: absolute;
+    top: 2793px;
+    width: 1110px;
+}
+
+.page-d-accueil .circle-background04-C61RwL {
+    background: linear-gradient(180deg, rgba(255, 234, 0, 0.33) 0%, rgba(255, 255, 255, 0) 62.23%);
+    background-color: transparent;
+    border-radius: 555px;
+    height: 1110px;
+    left: 1348px;
+    opacity: 0.33;
+    position: absolute;
+    top: 4953px;
+    width: 1110px;
+}
+
+.page-d-accueil .contact-5eV5YA {
+    background-color: transparent;
+    bottom: calc(48.19% - 10px);
+    height: 20px;
+    letter-spacing: 1.50px;
+    line-height: 14px;
+    position: absolute;
+    right: calc(33.15% - 27px);
+    text-align: left;
+    white-space: nowrap;
+    width: 80px;
+}
+
+.page-d-accueil .contenu-derniers-films-rynOnU {
+    background-color: transparent;
+    height: calc(100.00% - 109px);
+    left: 40px;
+    position: absolute;
+    top: 109px;
+    width: calc(100.00% - 40px);
+}
+
+.page-d-accueil .cover-3jLCxk {
+    background-color: var(--iron);
+    background-image: url(../img/cover-1@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .cover-Bwx2B1 {
+    background-color: var(--iron);
+    background-image: url(../img/bitmap-2@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .cover-JzHGt0 {
+    background-color: var(--iron);
+    background-image: url(../img/bitmap-3@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .cover-dqBvNM {
+    background-color: var(--iron);
+    background-image: url(../img/bitmap-2@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .cover-lLXUhb {
+    background-color: var(--iron);
+    background-image: url(../img/cover-1@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .cover-qHY6Ot {
+    background-color: var(--iron);
+    background-image: url(../img/bitmap-3@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .decouvrir-0BbjVm {
+    background-color: transparent;
+    /* background-image: url(../img/background@1x.png); */
+    background-position: 50% 50%;
+    background-size: cover;
+    bottom: 0px;
+    height: 48px;
+    left: calc(49.97% - 77px);
+    position: absolute;
+    width: 155px;
+}
+
+.page-d-accueil .decouvrir-0BbjVm {
+    background-image: url(../img/background@2x.png);
+}
+
+.page-d-accueil .dernier-article-0BbjVm {
+    background-color: transparent;
+    height: 460px;
+    left: 0px;
+    position: absolute;
+    top: calc(42.55% - 196px);
+    width: 1039px;
+}
+
+.page-d-accueil .dernier-article-SB3q63 {
+    background-color: transparent;
+    color: var(--eerie-black);
+    font-family: var(--font-family-source_serif_pro);
+    font-size: var(--font-size-xxxxxl);
+    font-weight: 400;
+    height: 51px;
+    left: 0px;
+    letter-spacing: 0.72px;
+    line-height: 60px;
+    position: absolute;
+    text-align: left;
+    top: -12px;
+    white-space: nowrap;
+    width: calc(100.00% + 2px);
+}
+
+.page-d-accueil .derniers-films-C61RwL {
+    background-color: transparent;
+    height: 858px;
+    left: 147px;
+    position: absolute;
+    top: 2152px;
+    width: 1586px;
+}
+
+.page-d-accueil .dots-blog-yD0NSi {
+    background-color: transparent;
+    bottom: 0px;
+    height: 14px;
+    left: calc(48.29% - 40px);
+    position: absolute;
+    width: 82px;
+}
+
+.page-d-accueil .dribbble-light-preview-2FrSWI {
+    background-color: transparent;
+    height: calc(100.00% - 4px);
+    left: 0px;
+    position: relative;
+    top: 2px;
+    width: 100%;
+}
+
+.page-d-accueil .dribbble-light-preview-69xmRh {
+    background-color: transparent;
+    height: 100%;
+    left: 5px;
+    position: relative;
+    top: 0px;
+    width: calc(100.00% - 10px);
+}
+
+.page-d-accueil .dribbble-light-preview-eBi4pI {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .evenement-C61RwL {
+    background-color: transparent;
+    height: 770px;
+    left: 0px;
+    position: absolute;
+    top: 3212px;
+    width: 1650px;
+}
+
+.page-d-accueil .evenement1-XDvbbq {
+    background-color: transparent;
+    bottom: 14px;
+    height: 616px;
+    left: calc(27.78% - 183px);
+    position: absolute;
+    width: 660px;
+}
+
+.page-d-accueil .evenement2-XDvbbq {
+    background-color: transparent;
+    bottom: 14px;
+    height: 616px;
+    position: absolute;
+    right: 0px;
+    width: 660px;
+}
+
+.page-d-accueil .evenements-5eV5YA {
+    background-color: transparent;
+    bottom: calc(47.38% - 9px);
+    height: 20px;
+    letter-spacing: 1.50px;
+    line-height: 14px;
+    position: absolute;
+    right: calc(43.36% - 49px);
+    text-align: left;
+    white-space: nowrap;
+    width: 112px;
+}
+
+.page-d-accueil .evenements-XDvbbq {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-sfui_display-semibold);
+    font-size: var(--font-size-xxxxxxxxl);
+    font-weight: 400;
+    height: 91px;
+    left: 147px;
+    letter-spacing: 5.85px;
+    line-height: 183px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: left;
+    text-shadow: 0px 3px 6px #00000029;
+    top: -54px;
+    white-space: nowrap;
+    width: calc(100.00% - 1115px);
+}
+
+.page-d-accueil .footer-C61RwL {
+    background-color: transparent;
+    background-image: url(../img/trac--4-1@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 145px;
+    left: 0px;
+    position: absolute;
+    top: 5634px;
+    width: 1920px;
+}
+
+.page-d-accueil .fred-mjg-BDUtxx {
+    background-color: transparent;
+    bottom: 0px;
+    height: 16px;
+    left: 0px;
+    letter-spacing: 0.40px;
+    line-height: 14px;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: 48px;
+}
+
+.page-d-accueil .fred-mjg-Kqmk3U {
+    background-color: transparent;
+    bottom: 0px;
+    height: 16px;
+    left: 0px;
+    letter-spacing: 0.40px;
+    line-height: 14px;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: 46px;
+}
+
+.page-d-accueil .fred-mjg-t82Ual {
+    background-color: transparent;
+    bottom: 0px;
+    height: 16px;
+    left: 0px;
+    letter-spacing: 0.40px;
+    line-height: 14px;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: 46px;
+}
+
+.page-d-accueil .grille-de-rptition-1-iEk7rw {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .groupe-icones-iPe1yZ {
+    background-color: transparent;
+    bottom: calc(50.00% - 24px);
+    height: 48px;
+    position: absolute;
+    right: 888px;
+    width: 144px;
+}
+
+.page-d-accueil .groupephoto1-C61RwL {
+    background-color: transparent;
+    height: 367px;
+    left: -140px;
+    object-fit: cover;
+    position: absolute;
+    top: 1588px;
+    width: 1920px;
+}
+
+.page-d-accueil .groupephoto2-C61RwL {
+    background-color: transparent;
+    height: 451px;
+    left: 147px;
+    object-fit: cover;
+    position: absolute;
+    top: 1077px;
+    width: 1971px;
+}
+
+.page-d-accueil .heading-2-f6DRtQ {
+    background-color: transparent;
+    height: 63px;
+    left: 20px;
+    position: absolute;
+    top: 20px;
+    width: 252px;
+}
+
+.page-d-accueil .icons-GxILPh {
+    background-color: transparent;
+    background-image: url(../img/facebook---176-@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .icons-gh4tMf {
+    background-color: transparent;
+    background-image: url(../img/instagram---167-@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .icons-xM7jm7 {
+    background-color: transparent;
+    background-image: url(../img/twitter---154-@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .innovation-zCOIAP {
+    background-color: transparent;
+    bottom: 321px;
+    height: 97px;
+    letter-spacing: 1.58px;
+    line-height: 545px;
+    position: absolute;
+    right: calc(34.23% - 178px);
+    text-align: left;
+    white-space: nowrap;
+    width: 519px;
+}
+
+.page-d-accueil .jakob-owens-ci-isx60-unsplash-P7xTm9 {
+    background-color: transparent;
+    height: calc(100.00% - 217px);
+    object-fit: cover;
+    position: absolute;
+    right: 0px;
+    top: 217px;
+    width: 2699px;
+}
+
+.page-d-accueil .jakob-owens-ci-isx60-unsplash-ROgmsm {
+    background-color: transparent;
+    height: calc(100.00% - 217px);
+    object-fit: cover;
+    position: absolute;
+    right: 0px;
+    top: 217px;
+    width: 2699px;
+}
+
+.page-d-accueil .kal-visuals-o-l-k7m9m-unsplash-P7xTm9 {
+    background-color: transparent;
+    height: 930px;
+    object-fit: cover;
+    position: absolute;
+    right: 2709px;
+    top: 217px;
+    width: 1396px;
+}
+
+.page-d-accueil .kal-visuals-o-l-k7m9m-unsplash-ROgmsm {
+    background-color: transparent;
+    height: 930px;
+    object-fit: cover;
+    position: absolute;
+    right: 2709px;
+    top: 217px;
+    width: 1396px;
+}
+
+.page-d-accueil .lan-1934-dans-l-s-marx-brothers-f6DRtQ {
+    background-color: transparent;
+    color: var(--eerie-black);
+    font-family: var(--font-family-segoeui-regular);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    height: 106px;
+    left: 20px;
+    letter-spacing: 0.00px;
+    line-height: 28px;
+    position: absolute;
+    text-align: left;
+    top: calc(48.59% - 52px);
+    width: 330px;
+}
+
+.page-d-accueil .layer-9-faYtln {
+    background-color: transparent;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    right: 0px;
+    top: 1px;
+    width: 321px;
+}
+
+.page-d-accueil .layer-9-utIxvD {
+    background-color: transparent;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    right: 1px;
+    top: 0px;
+    width: 321px;
+}
+
+.page-d-accueil .lire-2ZsRUr {
+    background-color: transparent;
+    bottom: calc(40.00% - 9px);
+    color: var(--eerie-black);
+    font-family: var(--font-family-source_sans_pro);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    height: 22px;
+    letter-spacing: 0.56px;
+    line-height: 14px;
+    position: absolute;
+    right: calc(48.28% - 15px);
+    text-align: left;
+    white-space: nowrap;
+    width: 31px;
+}
+
+.page-d-accueil .logo-5eV5YA {
+    background-color: transparent;
+    height: 69px;
+    left: 70px;
+    object-fit: cover;
+    position: absolute;
+    top: 15px;
+    width: 154px;
+}
+
+.page-d-accueil .menu-bar-C61RwL {
+    background-color: transparent;
+    background-image: url(../img/trac--4-1@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 103px;
+    left: 0px;
+    position: fixed;
+    top: 0px;
+    width: 1920px;
+}
+
+.page-d-accueil .minimal-2017-all-iPe1yZ {
+    background-color: transparent;
+    bottom: calc(43.80% - 7px);
+    color: var(--white);
+    font-family: var(--font-family-sfuidisplay-light);
+    font-size: var(--font-size-xxs);
+    font-weight: 300;
+    height: 16px;
+    left: 86.35%;
+    letter-spacing: 0.50px;
+    line-height: 12px;
+    position: absolute;
+    text-align: center;
+    white-space: nowrap;
+    width: 10.10%;
+}
+
+.page-d-accueil .nav-bar-C61RwL {
+    background-color: transparent;
+    height: 640px;
+    left: 69px;
+    position: absolute;
+    top: 290px;
+    width: 1521px;
+}
+
+.page-d-accueil .noom-peerapong-um6-e-unsplash-P7xTm9 {
+    background-color: transparent;
+    height: calc(100.00% - 409px);
+    object-fit: cover;
+    position: absolute;
+    right: 4115px;
+    top: 217px;
+    width: 2448px;
+}
+
+.page-d-accueil .noom-peerapong-um6-e-unsplash-ROgmsm {
+    background-color: transparent;
+    height: calc(100.00% - 409px);
+    object-fit: cover;
+    position: absolute;
+    right: 4115px;
+    top: 217px;
+    width: 2448px;
+}
+
+.page-d-accueil .oval-2-62Saxx {
+    background-color: var(--white);
+    border-radius: 7px;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 14px;
+}
+
+.page-d-accueil .oval-2-QoCrpX {
+    background-color: var(--iron);
+    border-radius: 7px;
+    height: 100%;
+    left: calc(50.00% - 7px);
+    opacity: 0.5;
+    position: absolute;
+    top: 0px;
+    width: 14px;
+}
+
+.page-d-accueil .oval-2-a2wPIb {
+    background-color: var(--iron);
+    border-radius: 7px;
+    height: 100%;
+    opacity: 0.5;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 14px;
+}
+
+.page-d-accueil .patricia-silva-WHKixb {
+    background-color: transparent;
+    bottom: 0px;
+    height: 16px;
+    left: 0px;
+    letter-spacing: 0.40px;
+    line-height: 14px;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: 71px;
+}
+
+.page-d-accueil .photo-evenement1-faYtln {
+    background-color: transparent;
+    height: calc(100.00% + 18px);
+    left: -9px;
+    object-fit: cover;
+    position: absolute;
+    top: -6px;
+    width: 356px;
+}
+
+.page-d-accueil .photo-evenement2-utIxvD {
+    background-color: transparent;
+    height: calc(100.00% + 18px);
+    left: -9px;
+    object-fit: cover;
+    position: absolute;
+    top: -6px;
+    width: 356px;
+}
+
+.page-d-accueil .photo-last-article-NujZHP {
+    background-color: transparent;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 680px;
+}
+
+.page-d-accueil .photographie-zCOIAP {
+    background-color: transparent;
+    height: 97px;
+    letter-spacing: 1.58px;
+    line-height: 545px;
+    position: absolute;
+    right: calc(32.08% - 206px);
+    text-align: left;
+    top: calc(26.15% - 25px);
+    white-space: nowrap;
+    width: 642px;
+}
+
+.page-d-accueil .plateforme-collaborative-zCOIAP {
+    background-color: transparent;
+    height: 97px;
+    letter-spacing: 1.58px;
+    line-height: 545px;
+    position: absolute;
+    right: -2px;
+    text-align: left;
+    top: calc(8.66% - 8px);
+    white-space: nowrap;
+    width: 1207px;
+}
+
+.page-d-accueil .play1-yD0NSi {
+    background-color: transparent;
+    height: 86px;
+    object-fit: cover;
+    position: absolute;
+    right: 149px;
+    top: calc(31.52% - 27px);
+    width: 86px;
+}
+
+.page-d-accueil .play2-yD0NSi {
+    background-color: transparent;
+    height: 86px;
+    left: 147px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(31.52% - 27px);
+    width: 86px;
+}
+
+.page-d-accueil .play3-yD0NSi {
+    background-color: transparent;
+    height: 86px;
+    object-fit: cover;
+    position: absolute;
+    right: calc(36.78% - 32px);
+    top: calc(31.52% - 27px);
+    width: 86px;
+}
+
+.page-d-accueil .play4-yD0NSi {
+    background-color: transparent;
+    height: 86px;
+    left: calc(36.64% - 32px);
+    object-fit: cover;
+    position: absolute;
+    top: calc(31.52% - 27px);
+    width: 86px;
+}
+
+.page-d-accueil .profil-5eV5YA {
+    background-color: transparent;
+    height: 20px;
+    position: absolute;
+    right: 70px;
+    top: 41px;
+    width: 82px;
+}
+
+.page-d-accueil .profil-RO06Ii {
+    background-color: transparent;
+    height: 20px;
+    letter-spacing: 0.60px;
+    line-height: 18px;
+    position: absolute;
+    right: -2px;
+    text-align: left;
+    top: 0px;
+    white-space: nowrap;
+    width: 55px;
+}
+
+.page-d-accueil .profil-icone-RO06Ii {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    object-fit: cover;
+    position: absolute;
+    top: 0px;
+    width: 20px;
+}
+
+.page-d-accueil .qui-sommes-nous-hTaHKU {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-sfui_display-semibold);
+    font-size: var(--font-size-xxxxxxl);
+    font-weight: 400;
+    height: 50px;
+    left: 35.19%;
+    letter-spacing: 1.72px;
+    line-height: 40px;
+    opacity: 0.84;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    white-space: nowrap;
+    width: 29.86%;
+}
+
+.page-d-accueil .realiser-5eV5YA {
+    background-color: transparent;
+    bottom: calc(48.19% - 10px);
+    height: 20px;
+    letter-spacing: 1.50px;
+    line-height: 14px;
+    position: absolute;
+    right: calc(49.97% - 39px);
+    text-align: left;
+    white-space: nowrap;
+    width: 79px;
+}
+
+.page-d-accueil .rectangle-47-XDvbbq {
+    background-color: #ffec67;
+    bottom: 0px;
+    height: 14px;
+    left: 0px;
+    opacity: 0.8;
+    position: absolute;
+    width: 100%;
+}
+
+.page-d-accueil .retour-vers-le-les-16-de-1934-f6DRtQ {
+    background-color: transparent;
+    color: var(--eerie-black);
+    font-family: var(--font-family-segoeui-bold);
+    font-size: var(--font-size-xxxl);
+    font-weight: 700;
+    height: 71px;
+    left: 20px;
+    letter-spacing: 0.00px;
+    line-height: 36px;
+    position: absolute;
+    text-align: left;
+    top: calc(23.14% - 16px);
+    width: 330px;
+}
+
+.page-d-accueil .retour-vers-le-les-26-de-1936-Kqmk3U {
+    background-color: transparent;
+    bottom: 24px;
+    height: 44px;
+    left: 0px;
+    letter-spacing: 0.64px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% + 2px);
+}
+
+.page-d-accueil .rsili-art-webin-et-audiovisuel-faYtln {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-bebas_neue);
+    font-size: var(--font-size-xxxxl);
+    font-weight: 400;
+    height: 68px;
+    letter-spacing: 0.00px;
+    line-height: 30px;
+    position: absolute;
+    right: 22px;
+    text-align: left;
+    top: 17px;
+    white-space: nowrap;
+    width: 286px;
+}
+
+.page-d-accueil .text-hTaHKU {
+    background-color: transparent;
+    color: var(--gray);
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-xxl);
+    height: 142px;
+    left: -72px;
+    letter-spacing: 1.05px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: calc(102.44% - 145px);
+    white-space: nowrap;
+    width: 100.16%;
+}
+
+.page-d-accueil .text-rynOnU {
+    background-color: transparent;
+    color: #fae916;
+    font-family: var(--font-family-open_sans);
+    font-size: var(--font-size-xxxxxl);
+    font-weight: 400;
+    height: 51px;
+    left: 0px;
+    letter-spacing: 1.80px;
+    line-height: 36px;
+    opacity: 0.61;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    white-space: nowrap;
+    width: 56.75%;
+}
+
+.page-d-accueil .textual-content01-yD0NSi {
+    background-color: transparent;
+    bottom: 74px;
+    height: 203px;
+    left: 0px;
+    position: absolute;
+    width: 272px;
+}
+
+.page-d-accueil .textual-content02-yD0NSi {
+    background-color: transparent;
+    bottom: 70px;
+    height: 207px;
+    left: calc(31.01% - 87px);
+    position: absolute;
+    width: 282px;
+}
+
+.page-d-accueil .textual-content03-yD0NSi {
+    background-color: transparent;
+    bottom: 74px;
+    height: 203px;
+    position: absolute;
+    right: calc(38.30% - 104px);
+    width: 272px;
+}
+
+.page-d-accueil .textual-content04-yD0NSi {
+    background-color: transparent;
+    bottom: 74px;
+    height: 203px;
+    position: absolute;
+    right: 99px;
+    width: 272px;
+}
+
+.page-d-accueil .the-pleasure-of-remo-xoxMf8 {
+    background-color: transparent;
+    height: 26px;
+    left: 0px;
+    letter-spacing: 0.70px;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    white-space: nowrap;
+    width: 100.71%;
+}
+
+.page-d-accueil .time-is-passing-by-WgszGj {
+    background-color: transparent;
+    height: 26px;
+    left: 0px;
+    letter-spacing: 0.70px;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    white-space: nowrap;
+    width: 67.28%;
+}
+
+.page-d-accueil .ton-futur-est-d-r-crer-produire-zCOIAP {
+    -webkit-text-stroke: 1px #e1d0d00a;
+    background-color: transparent;
+    color: #fae916;
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-xxxxxxxl);
+    font-weight: 700;
+    height: 116px;
+    left: 0px;
+    letter-spacing: 4.80px;
+    line-height: 48px;
+    position: absolute;
+    text-align: left;
+    top: 9px;
+    white-space: nowrap;
+    width: 983px;
+}
+
+.page-d-accueil .underline-SB3q63 {
+    background-color: #ffe900;
+    bottom: 0px;
+    height: 2px;
+    left: 0px;
+    position: absolute;
+    width: 84px;
+}
+
+.page-d-accueil .voir-plus-I2kDZA {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    height: 21px;
+    letter-spacing: 0.00px;
+    line-height: 22px;
+    position: absolute;
+    right: calc(48.28% - 33px);
+    text-align: center;
+    top: calc(44.44% - 9px);
+    white-space: nowrap;
+    width: 68px;
+}
+
+.page-d-accueil .webinaire-crez-power-director-utIxvD {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-bebas_neue);
+    font-size: var(--font-size-xxxxl);
+    font-weight: 400;
+    height: 98px;
+    letter-spacing: 0.00px;
+    line-height: 30px;
+    position: absolute;
+    right: 15px;
+    text-align: left;
+    top: 20px;
+    white-space: nowrap;
+    width: 286px;
+}
+
+.page-d-accueil .wknd-button-standard-ajK8Zx {
+    background-color: var(--cararra);
+    height: 48px;
+    position: absolute;
+    right: 0px;
+    top: calc(50.00% - 24px);
+    width: 48px;
+}
+
+.page-d-accueil .wknd-button-standard-f11UdC {
+    background-color: var(--cararra);
+    height: 48px;
+    left: calc(50.00% - 24px);
+    position: absolute;
+    top: calc(50.00% - 24px);
+    width: 48px;
+}
+
+.page-d-accueil .wknd-icon-GWGMOx {
+    background-color: transparent;
+    height: calc(100.00% - 28px);
+    left: 14px;
+    position: relative;
+    top: 14px;
+    width: calc(100.00% - 28px);
+}
+
+.page-d-accueil .wknd-icon-k6gn4V {
+    background-color: transparent;
+    height: calc(100.00% - 28px);
+    left: 14px;
+    position: relative;
+    top: 14px;
+    width: calc(100.00% - 28px);
+}
+
+.page-d-accueil .wknd-icon-xFiGU6 {
+    background-color: transparent;
+    height: calc(100.00% - 28px);
+    left: 14px;
+    position: relative;
+    top: 14px;
+    width: calc(100.00% - 28px);
+}
+
+.page-d-accueil .wknd-image-Mjv4CB {
+    background-color: transparent;
+    background-image: url(../img/image-2@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: calc(100.00% - 86px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .wknd-image-P7xTm9 {
+    background-color: transparent;
+    background-image: url(../img/image-1@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: calc(100.00% - 1866px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: calc(100.00% - 11074px);
+    filter: grayscale(100%);
+}
+
+.page-d-accueil .wknd-image-PmDcw3 {
+    background-color: transparent;
+    background-image: url(../img/image@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: calc(100.00% - 90px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.page-d-accueil .wknd-image-ROgmsm {
+    background-color: transparent;
+    background-image: url(../img/image-3@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: calc(100.00% - 1866px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: calc(100.00% - 11074px);
+    filter: grayscale(100%);
+}
+
+.page-d-accueil .wknd-teaser-MAjThi {
+    background-color: transparent;
+    height: 2041px;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 11330px;
+}
+
+.page-d-accueil .wknd-teaser-Mjv4CB {
+    background-color: transparent;
+    bottom: 0px;
+    height: 74px;
+    left: 0px;
+    position: absolute;
+    width: calc(100.00% - 24px);
+}
+
+.page-d-accueil .wknd-teaser-NujZHP {
+    background-color: #f7f7f7;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: calc(100.00% - 8px);
+}
+
+.page-d-accueil .wknd-teaser-P7xTm9 {
+    background-color: transparent;
+    bottom: 1788px;
+    height: 66px;
+    left: 0px;
+    position: absolute;
+    width: calc(100.00% - 11098px);
+}
+
+.page-d-accueil .wknd-teaser-PmDcw3 {
+    background-color: transparent;
+    bottom: 0px;
+    height: 78px;
+    left: 0px;
+    position: absolute;
+    width: calc(100.00% - 16px);
+}
+
+.page-d-accueil .wknd-teaser-ROgmsm {
+    background-color: transparent;
+    bottom: 1811px;
+    height: 43px;
+    left: 0px;
+    position: absolute;
+    width: calc(100.00% - 11098px);
+}
+
+.page-d-accueil .wknd-teaser-RWmNg9 {
+    background-color: transparent;
+    height: 2041px;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 11330px;
+}
+
+.page-d-accueil .wknd-teaser-SjAp0E {
+    background-color: transparent;
+    height: 261px;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 256px;
+}
+
+.page-d-accueil .wknd-teaser-lrNfQw {
+    background-color: transparent;
+    height: 265px;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 256px;
+}
+
+.page-d-accueil .x-au-fil-des-jeu-pcial-petit-jeu-t82Ual {
+    background-color: transparent;
+    bottom: 28px;
+    height: 52px;
+    left: 0px;
+    letter-spacing: 0.64px;
+    line-height: 28px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% + 2px);
+}
+
+.page-d-accueil .x-au-fil-des-jeu-plans-de-cinma-BDUtxx {
+    background-color: transparent;
+    bottom: 11px;
+    height: 69px;
+    left: 0px;
+    letter-spacing: 0.64px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% + 2px);
+}
+
+.page-d-accueil .x0-HzxOkV {
+    background-color: transparent;
+    height: 265px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 256px;
+}
+
+.page-d-accueil .x01-gFfijK {
+    background-color: transparent;
+    height: 430px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 370px;
+}
+
+.page-d-accueil .x01-rIuOvY {
+    background-color: transparent;
+    height: 430px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 370px;
+}
+
+.page-d-accueil .x01092018-JQttCV {
+    background-color: transparent;
+    height: 20px;
+    left: 0.55%;
+    letter-spacing: 0.65px;
+    line-height: 13px;
+    position: absolute;
+    text-align: left;
+    top: calc(101.09% - 20px);
+    white-space: nowrap;
+    width: 27.99%;
+}
+
+.page-d-accueil .x02-gFfijK {
+    background-color: transparent;
+    height: 430px;
+    left: 393px;
+    position: absolute;
+    top: 0px;
+    width: 370px;
+}
+
+.page-d-accueil .x02-rIuOvY {
+    background-color: transparent;
+    height: 430px;
+    left: 393px;
+    position: absolute;
+    top: 0px;
+    width: 370px;
+}
+
+.page-d-accueil .x03-gFfijK {
+    background-color: transparent;
+    height: 430px;
+    left: 786px;
+    position: absolute;
+    top: 0px;
+    width: 370px;
+}
+
+.page-d-accueil .x03-rIuOvY {
+    background-color: transparent;
+    height: 430px;
+    left: 786px;
+    position: absolute;
+    top: 0px;
+    width: 370px;
+}
+
+.page-d-accueil .x04092018-tsXc5k {
+    background-color: transparent;
+    height: 20px;
+    left: 0px;
+    letter-spacing: 0.65px;
+    line-height: 13px;
+    position: absolute;
+    text-align: left;
+    top: calc(101.07% - 20px);
+    white-space: nowrap;
+    width: 26.95%;
+}
+
+.page-d-accueil .x1-HzxOkV {
+    background-color: transparent;
+    height: 2041px;
+    left: 276px;
+    position: absolute;
+    top: 0px;
+    width: 11330px;
+}
+
+.page-d-accueil .x1-jour-1-hommage-WHKixb {
+    background-color: transparent;
+    bottom: 30px;
+    height: 19px;
+    left: 0px;
+    letter-spacing: 0.64px;
+    line-height: 28px;
+    overflow: hidden;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: calc(100.00% + 2px);
+}
+
+.page-d-accueil .x12092018-cRxxAB {
+    background-color: transparent;
+    height: 20px;
+    left: 0.74%;
+    letter-spacing: 0.65px;
+    line-height: 13px;
+    position: absolute;
+    text-align: left;
+    top: calc(101.09% - 20px);
+    white-space: nowrap;
+    width: 27.94%;
+}
+
+.page-d-accueil .x12092018-m31xEG {
+    background-color: transparent;
+    height: 20px;
+    left: 0.74%;
+    letter-spacing: 0.65px;
+    line-height: 13px;
+    position: absolute;
+    text-align: left;
+    top: calc(101.09% - 20px);
+    white-space: nowrap;
+    width: 27.94%;
+}
+
+.page-d-accueil .x2-HzxOkV {
+    background-color: transparent;
+    height: 261px;
+    left: 0px;
+    position: absolute;
+    top: 281px;
+    width: 256px;
+}
+
+.page-d-accueil .x23-mai-2021-1930-en-ligne-faYtln {
+    background-color: transparent;
+    color: var(--black);
+    font-family: var(--font-family-segoeui-regular);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    height: 22px;
+    letter-spacing: 0.00px;
+    line-height: 15px;
+    position: absolute;
+    right: 32px;
+    text-align: left;
+    top: 83px;
+    width: 275px;
+}
+
+.page-d-accueil .x3-HzxOkV {
+    background-color: transparent;
+    height: 2041px;
+    left: 276px;
+    position: absolute;
+    top: 281px;
+    width: 11330px;
+}
+
+.page-d-accueil .x6-juin-2021-2000-en-ligne-utIxvD {
+    background-color: transparent;
+    color: var(--black);
+    font-family: var(--font-family-segoeui-regular);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    height: 22px;
+    letter-spacing: 0.00px;
+    line-height: 15px;
+    position: absolute;
+    right: 26px;
+    text-align: left;
+    top: calc(19.15% - 4px);
+    width: 275px;
+}
+
+.page-d-accueil .zach-vessels-m2-2alz3c-unsplash-P7xTm9 {
+    background-color: transparent;
+    height: calc(100.00% - 353px);
+    object-fit: cover;
+    position: absolute;
+    right: 6573px;
+    top: 217px;
+    width: 3000px;
+}
+
+.page-d-accueil .zach-vessels-m2-2alz3c-unsplash-ROgmsm {
+    background-color: transparent;
+    height: calc(100.00% - 353px);
+    object-fit: cover;
+    position: absolute;
+    right: 6573px;
+    top: 217px;
+    width: 3000px;
+}
